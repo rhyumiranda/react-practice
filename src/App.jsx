@@ -1,9 +1,8 @@
-import Button from './Button/Button.jsx'
-
+import Header from "./Header.jsx"
 function App() {
-  return(
-    <Button/>
-  );
+  <>
+    <Header/>
+  </>
 }
 
 export default App
