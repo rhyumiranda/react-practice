@@ -1,0 +1,19 @@
+.welcome-message{
+  background-color: rgb(0, 255, 81);
+  display: flex;
+  align-items: center;
+  height: 50px;
+  padding: 10px;
+  margin: 0;
+
+  color: black;
+}
+
+.login-prompt{
+  background-color: rgb(255, 0, 0);
+  display: flex;
+  align-items: center;
+  height: 50px;
+  padding: 10px;
+  margin: 0;
+}
