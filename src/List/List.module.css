@@ -1,0 +1,16 @@
+.list-container{
+  padding: 10px;
+}
+
+.category-title{
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid white;
+  background-color: hsl(18, 100%, 30%);
+  margin-bottom: 10px;
+}
+
+ul{
+  list-style: none;
+  text-align: center;;
+}
