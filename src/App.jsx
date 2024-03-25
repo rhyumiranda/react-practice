@@ -1,9 +1,9 @@
-import MyComponent4 from "./MyComponent4/MyComponent4.jsx";
+import MyComponentA from "./MyComponentGroup/MyComponentA.jsx";
 
 function App() {
   return(
     <>
-      <MyComponent4/>
+      <MyComponentA/>
     </>
   );
 }
